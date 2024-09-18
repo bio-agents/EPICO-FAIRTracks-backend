@@ -1,0 +1,12 @@
+/EPICO-FAIRTracks-backend-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
+/blib
+/local/
+/cpanfile.snapshot
+/EPICO-REST-API
+/work
